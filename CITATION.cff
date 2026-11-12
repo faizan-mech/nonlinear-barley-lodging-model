@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+type: software
+title: "Nonlinear barley lodging model"
+license: MIT
+repository-code: "https://github.com/faizan-mech/nonlinear-barley-lodging-model"
+authors:
+  - family-names: Faizan
+    given-names: Muhammad
+    affiliation: "School of Electrical and Mechanical Engineering, Adelaide University"
+  - family-names: Freidoonimehr
+    given-names: Navid
+    affiliation: "School of Mechanical and Mining Engineering, The University of Queensland"
+  - family-names: Tucker
+    given-names: Matthew R.
+    affiliation: "School of Agriculture, Food and Wine, Adelaide University"
+  - family-names: Arjomandi
+    given-names: Maziar
+    affiliation: "School of Electrical and Mechanical Engineering, Adelaide University"
+keywords:
+  - barley lodging
+  - Cosserat rod
+  - turbulent loading
+  - first passage

@@ -1,0 +1,6 @@
+function W = v35_wind_still(T)
+%V35_WIND_STILL Still-air record of length T (free-release tests).
+W = struct('U', 0, 'seed', 0, 'dt', T, 'N', 2, 'T', T, 'u', [0;0], 'w', [0;0], ...
+    'Ueq', 0, 'T_ramp', 0, 'sigma_u', 0, 'Iu', 0, 'Lu', 0, 'spectrum', 'none', ...
+    'vertical', false, 'r_uw_realised', 0);
+end
